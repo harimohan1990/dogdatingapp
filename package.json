@@ -1,0 +1,14 @@
+{
+  "name": "dogbackend",
+  "version": "1.0.0",
+  "description": "dog details backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "dog"
+  ],
+  "author": "hari",
+  "license": "ISC"
+}
